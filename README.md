@@ -28,6 +28,16 @@ Analyze your code to find potential issues.
 flutter analyze
 ```
 
+### Clean Code Guidelines
+- [Effective Dart](https://dart.dev/guides/language/effective-dart)
+
+### Code Style
+- [Effective Dart](https://dart.dev/guides/language/effective-dart/style)
+
+```dart
+// TODO
+```
+
 
 ### New libraries
 
